@@ -1,0 +1,11 @@
+{
+  "name": "audio-streaming-test-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "MaxPowerEdain <joancarazo1994@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.1.1"
+  }
+}
